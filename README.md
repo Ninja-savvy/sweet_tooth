@@ -1,5 +1,5 @@
 Webpage will be accessible at:
 
-http://<IP>:5000/greeting/?name=
+http://your_ip:5000/greeting/?name=
 
-Example- http://<IP>:5000/greeting/?name=guest
+Example- http://your_ip:5000/greeting/?name=guest
